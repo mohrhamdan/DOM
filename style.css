@@ -1,3 +1,17 @@
 h1 {
   font-size:  70p;
 }
+
+#bulb {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+button {
+  margin-left: 2rem;
+  margin-top: 2rem;
+  padding: 1rem;
+  cursor: pointer;
+}
